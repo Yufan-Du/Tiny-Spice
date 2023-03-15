@@ -35,7 +35,7 @@ I11 5 0 3
 
 and finish with a q in a single line
 
-The input parsing process is not such robost though, it will not detect all the errors automatically. So pay attention to the format and details.
+The input parsing process is not such robust though, it will not detect all the errors automatically. So pay attention to the format and details.
 
 The output is the whole MNA (Modified Node Analysis)matrix, the RHS vector, every node voltage, and simultaneously the current and information of the bad branch.
 
