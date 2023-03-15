@@ -1,5 +1,5 @@
 # Tiny-Spice
-A simple but fully functional spice is continuously updated. 
+A simple but functional Spice (is continuously updated XD). 
 
 Now support all the basic elements in the circuit for steady-state analysis, elements such as resistor, voltage source, current source,VCVS ,VCCS ,CCCS, CCVS are supported.
 
